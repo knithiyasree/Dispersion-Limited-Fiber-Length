@@ -38,13 +38,13 @@ Using the chromatic dispersion factor equation, determine the dispersion of the 
 1550 nm and set the fiber dispersion parameter accordingly. 
 Using the equations above, determine the dispersion-limited fiber length. 
 <img width="1262" height="1044" alt="image" src="https://github.com/user-attachments/assets/e0b20ca6-42b4-4f1b-ac9a-e4f931a85001" />
+# tabulation :
 
 <img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/033fa2f2-b488-4315-9cc5-9a26318ebec5" />
 <img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/c1a2c51f-6af2-4fc7-8308-2ae71a3e97ce" />
 <img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/5bcfa61c-3f63-4b8f-b161-7c6be7854fd1" />
 <img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/73112cf2-f83f-42a7-9a1f-8bc084587f59" />
 <img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/7f06221e-5549-4998-bbb8-a409576d9aa7" />
-# tabulation :
 
 <img width="721" height="1280" alt="image" src="https://github.com/user-attachments/assets/dce79fa8-0249-4977-aa66-14f960fc182f" />
 <img width="897" height="1128" alt="image" src="https://github.com/user-attachments/assets/c018dec0-ec94-4d68-8f55-b3dd3763717d" />
